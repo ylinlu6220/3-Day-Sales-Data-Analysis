@@ -5,10 +5,12 @@ This was a great project to work on to learn MySQL for the first time and be abl
 
 Link to the dashboard: https://lookerstudio.google.com/reporting/f263849e-74f2-497b-a054-d70b359c8fd4
 
+
 Points to Remember:
 
 When looking at the waitress data, please know that waitress ID 1 is used for orders/tables that are shared between multiple waitresses. Which only occurs when there are parties greater than 10.
 Waitress ID 9 is used for to-go orders, therefore tips and order total averages are much lower compared to the other waitresses.
+
 
 Conclusions:
 
