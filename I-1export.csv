@@ -1,0 +1,24 @@
+date,item_id,item_name,COUNT(order_cpy.item_id)
+1-May,1,"Dinner Buffet",57
+1-May,9,Soda,70
+1-May,2,"Dinner KID (3-5)",2
+1-May,3,"Dinner KID (6-8)",3
+1-May,4,"Dinner KID (9-11)",3
+1-May,5,"Lunch Buffet",63
+1-May,7,"Lunch KID (6-8)",1
+1-May,6,"Lunch KID (3-5)",2
+2-May,1,"Dinner Buffet",63
+2-May,9,Soda,84
+2-May,4,"Dinner KID (9-11)",7
+2-May,3,"Dinner KID (6-8)",11
+2-May,2,"Dinner KID (3-5)",5
+2-May,5,"Lunch Buffet",58
+2-May,6,"Lunch KID (3-5)",2
+3-May,1,"Dinner Buffet",112
+3-May,3,"Dinner KID (6-8)",12
+3-May,4,"Dinner KID (9-11)",17
+3-May,2,"Dinner KID (3-5)",10
+3-May,9,Soda,104
+3-May,5,"Lunch Buffet",58
+3-May,6,"Lunch KID (3-5)",5
+3-May,8,"Lunch KID (9-11)",2
